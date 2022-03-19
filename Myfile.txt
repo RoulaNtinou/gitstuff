@@ -1,2 +1,3 @@
 Test files
 Hi Git and GitHub
+Hi git merge conflicts
